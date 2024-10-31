@@ -1,0 +1,33 @@
+{
+  "dimensions": {
+    "minecraft:overworld": {
+      "type": "minecraft:overworld",
+      "generator": {
+        "type": "ctgen:map_based_chunk_generator",
+        "settings": {
+          "biome_map": "elarth:elarth",
+          "default_map_biome": "ctgen:deep_ocean",
+          "zones": [
+            "ctgen:stony_flats",
+            "ctgen:snowy_flats",
+            "ctgen:snowy_slopes",
+            "ctgen:snowy_mountains",
+            "ctgen:frozen_lake",
+            "ctgen:frozen_river",
+            "ctgen:plains",
+            "ctgen:forest",
+            "ctgen:hills",
+            "ctgen:mountains",
+            "ctgen:lake",
+            "ctgen:desert",
+            "ctgen:badlands",
+            "ctgen:badlands_mountains",
+            "ctgen:river",
+            "ctgen:ocean",
+            "ctgen:deep_ocean"
+          ]
+        }
+      }
+    }
+  }
+}
