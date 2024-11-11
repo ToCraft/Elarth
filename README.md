@@ -13,7 +13,7 @@ It features three continents:
 
 The rest of the world will be filled with an endless deep ocean.
 
-<img alt="Map" height="250" src="elarth.png"></img>
+<img alt="Map" height="250" src="assets/elarth/textures/gui/elarth.png"></img>
 
 The amazing map was created by [Deathslayor].
 
