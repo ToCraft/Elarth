@@ -17,6 +17,8 @@ The rest of the world will be filled with an endless deep ocean.
 
 The amazing map was created by [Deathslayor].
 
+**Note: You can install the data pack as a resource pack, too, in order to use the map menu.** *(When Minecraft claims it was made for a newer version, just click that you want to install it anyway).*
+
 ---
 
 If you want to use CTGen on a server so you can enjoy your custom generated minecraft worlds with friends, I suggest trying out BisectHosting.
